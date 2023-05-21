@@ -1,0 +1,55 @@
+{
+  "title":"Se você fosse um Cão! que tipo seria ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual a brincadeira escolheria ?",
+      "options":[
+        {"id": 1, "name":"Bola", "alias":"A"},
+        {"id": 2, "name":"Disco de voar", "alias":"B"},
+        {"id": 3, "name":"Comer coisas", "alias":"A"},
+        {"id": 4, "name":"Moder sapatp", "alias":"B"},
+        {"id": 5, "name":"Soltar e latir", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que te deixa mais feliz ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"A"},
+        {"id": 2, "name":"Comidas", "alias":"A"},
+        {"id": 3, "name":"Um amigo", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como é sua limpeza pessoal ?",
+      "options":[
+        {"id": 1, "name":"Pentia os cabelos", "alias":"B"},
+        {"id": 2, "name":"Toma banho todo dia", "alias":"A"},
+        {"id": 3, "name":"Limpa aonde suja", "alias":"A"},
+        {"id": 4, "name":"Não deixar nada quieto", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que vc gosta de fazer ?",
+      "options":[
+        {"id": 1, "name":"Ficar na bagunça", "alias":"A"},
+        {"id": 2, "name":"Organizar a bagunça", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o apelido você lhe dária ?",
+      "options":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super Cão!",
+    "B": "Você muito provavelmente seria um super Gatinho!"
+  }
+}
